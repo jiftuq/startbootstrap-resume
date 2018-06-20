@@ -40,4 +40,8 @@
         "gulp-sass": "4.0.1",
         "gulp-uglify": "3.0.0"
     }
+
 }
+"scripts": {
+    "start": "node server.js"
+  }
